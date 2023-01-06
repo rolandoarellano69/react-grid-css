@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* @layer {
+  .grid {
+    @apply mx-auto px-4;
+  }
+} */
